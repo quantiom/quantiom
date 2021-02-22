@@ -3,7 +3,7 @@
 
 ### 🚀 About 
 - 📦 Current Project: [DemonicPvP](https://discord.demonicpvp.org)
-- ⚒️ 2 1/2 years of Java & Kotlin experience
+- ⚒️ 3 years of Java, Kotlin and NodeJS experience
 - 💬 Contact: quantiom#0001
 
 #### Technologies I am familar with:
