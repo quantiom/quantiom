@@ -2,7 +2,7 @@
 
 
 ### 🚀 About 
-- ⚒️ 3 years of Java / Kotlin, NodeJS and C++ experience
+- ⚒️ 4 years of Java / Kotlin, NodeJS and C++ experience
 - 💬 Contact: quantiom#0001
 
 #### Technologies I am familar with:
