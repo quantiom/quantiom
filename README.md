@@ -2,9 +2,9 @@
 
 
 ### 🚀 About 
+- 📦 Current Project: [DemonicPvP](https://demonicpvp.org)
 - ⚒️ 4 years of Java / Kotlin, NodeJS and C++ experience
 - 💬 Contact: quantiom#0001
-- 😎 Current Project: [DemonicPvP](https://demonicpvp.org)
 
 #### Technologies I am familar with:
  - Java <img src=assets/java.png width="16px;" height="16px;">
