@@ -2,7 +2,6 @@
 
 
 ### 🚀 About 
-- 📦 Current Project: [DemonicPvP](https://demonicpvp.org)
 - ⚒️ 7 years of Programming Experience (primarily Java / Kotlin, NodeJS and C++)
 - 💬 Contact: quantiom#0001
 
