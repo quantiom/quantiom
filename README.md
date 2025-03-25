@@ -2,9 +2,8 @@
 
 
 ### 🚀 About 
-- ⚒️ 7 years of Programming Experience (primarily Java / Kotlin, NodeJS and C++)
+- ⚒️ 8 years of Programming Experience (primarily Java / Kotlin, NodeJS and C++)
 - 🛡️ 3 years of Cybersecurity Experience (Penetration Testing, Reverse Engineering, and Network Security)
-- 💬 Discord: quantiom
 
 #### Technologies I am familar with:
  - Java <img src=assets/java.png width="16px;" height="16px;">
