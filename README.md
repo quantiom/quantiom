@@ -3,7 +3,7 @@
 
 ### 🚀 About 
 - ⚒️ 8 years of Programming Experience (primarily Java / Kotlin, NodeJS and C++)
-- 🛡️ 3 years of Cybersecurity Experience (Penetration Testing, Reverse Engineering, and Network Security)
+- 🛡️ 4 years of Cybersecurity Experience (Penetration Testing, Reverse Engineering, and Network Security)
 
 #### Technologies I am familar with:
  - Java <img src=assets/java.png width="16px;" height="16px;">
